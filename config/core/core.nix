@@ -47,6 +47,7 @@
     };
     options = {
       autoindent = true;
+      background = "light";
       expandtab = true;
       hidden = true;
       helpheight = 9999;

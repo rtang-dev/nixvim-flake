@@ -1,5 +1,5 @@
 {
-  colorschemes.kanagawa= {
+  colorschemes.one= {
     enable = true;
   };
 }
